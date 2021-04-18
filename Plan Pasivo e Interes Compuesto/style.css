@@ -28,6 +28,7 @@ body {
     left: 0;
     background-size: cover;
     overflow: hidden;
+    z-index: -10;
 }
 .imagenbody{
 
@@ -40,6 +41,7 @@ body {
     top: 30%;
     background-size: cover;
     overflow: hidden;
+    z-index: -10;
 }
 .what{
     width: 60px;
@@ -256,7 +258,6 @@ body {
 .video{
     display: block;
     margin: auto;
-    z-index: 10;
 }
 
 
